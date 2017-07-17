@@ -8,43 +8,40 @@
 # List of Software installed
 -Apache
 -mod_wsgi
-PostgreSQL
-Flask (0.12.2)
-Flask-WTF (0.14.2)
-httplib2 (0.10.3)
-certifi (2017.4.17)
-chardet (3.0.4)
-click (6.7)
-idna (2.5)
-itsdangerous (0.24)
-Jinja2 (2.9.6)
-MarkupSafe (1.0)
-oauth2client (4.1.2)
-pip (9.0.1)
-pip-autoremove (0.9.0)
-psycopg2 (2.7.1)
-pyasn1 (0.2.3)
-pyasn1-modules (0.0.9)
-requests (2.18.1)
-rsa (3.4.2)
-setuptools (20.7.0)
-six (1.10.0)
-SQLAlchemy (1.1.11)
-urllib3 (1.21.1)
-virtualenv (15.1.0)
-Werkzeug (0.12.2)
-wheel (0.29.0)
-WTForms (2.1)
-yolk (0.4.3)
+-PostgreSQL
+-Flask (0.12.2)  
+-Flask-WTF (0.14.2)  
+-httplib2 (0.10.3)  
+-certifi (2017.4.17)
+-chardet (3.0.4)  
+-click (6.7)  
+-idna (2.5)  
+-itsdangerous (0.24)  
+-Jinja2 (2.9.6)  
+-MarkupSafe (1.0)  
+-oauth2client (4.1.2)  
+-pip (9.0.1)  
+-pip-autoremove (0.9.0)  
+-psycopg2 (2.7.1)  
+-pyasn1 (0.2.3)  
+-pyasn1-modules (0.0.9)  
+-requests (2.18.1)  
+-rsa (3.4.2)  
+-setuptools (20.7.0)  
+-six (1.10.0)  
+-SQLAlchemy (1.1.11)  
+-urllib3 (1.21.1)  
+-virtualenv (15.1.0)  
+-Werkzeug (0.12.2)  
+-wheel (0.29.0)  
+-WTForms (2.1)  
+-yolk (0.4.3)  
 
 # Configuration Changes
 
-Changed Server time to UTC
-Change the SSH port from 22 to 2200
-Configured UFW to only allow incoming connections for SSH (port 2200), HTTP (port 80), and NTP (port 123).
-
-
-
+Changed Server time to UTC  
+Change the SSH port from 22 to 2200  
+Configured UFW to only allow incoming connections for SSH (port 2200), HTTP (port 80), and NTP (port 123).  
 
 #The Project
 
