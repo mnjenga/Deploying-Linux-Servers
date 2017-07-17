@@ -1,14 +1,13 @@
 # Deploying-Linux-Servers
-Deploying my Udacity Item Catalog project
 
-Project URL http://52.58.209.142/
-IP Address 52.58.209.142
-Port 2200
-grader username: grader
+-Project URL http://52.58.209.142/
+-IP Address 52.58.209.142
+-Port 2200
+-grader username: grader
 
 # List of Software installed
-Apache
-mod_wsgi
+-Apache
+-mod_wsgi
 PostgreSQL
 Flask (0.12.2)
 Flask-WTF (0.14.2)
