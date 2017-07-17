@@ -1,9 +1,9 @@
 # Deploying-Linux-Servers
 
 -Project URL http://52.58.209.142/
--IP Address 52.58.209.142
--Port 2200
--grader username: grader
+-IP Address 52.58.209.142  
+-Port 2200  
+-grader username: grader  
 
 # List of Software installed
 -Apache
