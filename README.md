@@ -1,6 +1,6 @@
 # Deploying-Linux-Servers
 
--Project URL http://52.58.209.142/
+-Project URL http://kwetu.co
 -IP Address 52.58.209.142  
 -Port 2200  
 -grader username: grader  
