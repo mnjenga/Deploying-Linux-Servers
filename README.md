@@ -1,11 +1,11 @@
 # Deploying-Linux-Servers
 
--Project URL http://kwetu.co
--IP Address 52.58.209.142  
+-Project URL http://54.93.105.64
+-IP Address 54.93.105.64 
 -Port 2200  
 -grader username: grader  
 
-# List of Software installed
+# List of packages installed
 -Apache
 -mod_wsgi
 -PostgreSQL
